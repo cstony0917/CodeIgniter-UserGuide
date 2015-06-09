@@ -11,6 +11,8 @@ CodeIgniter User Guide
 Setup Instructions
 ******************
 
+CodeIgniter 使用者手冊使用 Sphinx 
+
 The CodeIgniter user guide uses Sphinx to manage the documentation and
 output it to various formats.  Pages are written in human-readable
 `ReStructured Text <http://sphinx.pocoo.org/rest.html>`_ format.
@@ -24,7 +26,7 @@ without any parameters.  It should load up and tell you which version you have
 installed.  If you're not on 2.7+, go ahead and install 2.7.2 from
 http://python.org/download/releases/2.7.2/
 
-Installation
+安裝
 ============
 
 1. Install `easy_install <http://peak.telecommunity.com/DevCenter/EasyInstall#installing-easy-install>`_
@@ -42,8 +44,10 @@ documentation or modify existing documentation.  Just as with code changes,
 we recommend working from feature branches and making pull requests to
 the *develop* branch of this repo.
 
-所以我說，那個HTML呢?
+所以我說，那個 HTML 呢?
 ====================
+
+很顯然地，HTML 文件是我們最在意的部份
 
 Obviously, the HTML documentation is what we care most about, as it is the
 primary documentation that our users encounter.  Since revisions to the built
