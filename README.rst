@@ -36,7 +36,7 @@ http://python.org/download/releases/2.7.2/
 5. ``cd user_guide_src``
 6. ``make html``
 
-Editing and Creating Documentation
+維護文件
 ==================================
 
 All of the source files exist under *source/* and is where you will add new
