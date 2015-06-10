@@ -38,6 +38,7 @@ http://python.org/download/releases/2.7.2/
 
 Editing and Creating Documentation
 ==================================
+所有的文件檔案都放在 *source/* 資料夾底下
 
 All of the source files exist under *source/* and is where you will add new
 documentation or modify existing documentation.  Just as with code changes,
